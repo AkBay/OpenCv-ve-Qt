@@ -1,7 +1,7 @@
 OpenCv-ve-Qt
 ============
 
-/*Bu program ile yüklendiğiniz ya da çektiğiniz  fotoğrafa
+ *Bu program ile yüklendiğiniz ya da çektiğiniz  fotoğrafa
  * listede bulunan filtreleri uygulayabilirsiniz.
  * İstediğiniz fotoğrafı istediğiniz yere kaydedebilirsiniz.
  * İstediğiniz fotoğrafı instagaramda paylaşabilir veya bluetooth
@@ -13,4 +13,4 @@ OpenCv-ve-Qt
  * İletişim Bilgileri:
  *  mervebayrak93@gmail.com
  *  akdemir.meltem02@gmail.com
- */
+ 
