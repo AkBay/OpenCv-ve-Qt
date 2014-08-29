@@ -1,7 +1,7 @@
 OpenCv-ve-Qt
 ============
 
-  Bu program ile yüklendiğiniz ya da çektiğiniz  fotoğrafa
+  Bu program ile yüklendiğiniz ya da bilgisayarınızın kamerasından çektiğiniz  fotoğrafa
   listede bulunan filtreleri uygulayabilirsiniz.
   İstediğiniz fotoğrafı istediğiniz yere kaydedebilirsiniz.
   İstediğiniz fotoğrafı instagramda paylaşabilir veya bluetooth
